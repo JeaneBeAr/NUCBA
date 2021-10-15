@@ -1,0 +1,37 @@
+body {
+    background-color: darkkhaki; 
+    margin: 0;
+}
+.imagen{
+    display: block;
+    margin: auto ;
+    text-align: center;
+}
+.social{
+    width:48px;
+    display: flex;
+    top: 200px;
+    z-index: 2000;
+    
+}   
+.inicio{ 
+    border: 5px outset rgb(9, 10, 9);
+    background-color: black;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+ 
+}
+.inicioItems {
+    color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    text-align: center;
+}
+h2 {
+    text-align: center ;
+}
+.descripcion{
+    text-align: center;
+}

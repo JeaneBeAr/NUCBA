@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+body{
+    background-color: darkkhaki;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, p{
+    margin-top: 10px;
+    background-color: darkgoldenrod;
+}
+h1, .claseDos{
+    font-size: 40px;
+}
+
+/* class*/
+.perritoSalchicha{
+    background-color: maroon;
+}
+/* ID */
+#perritoSalchicha {
+    background-color: crimson ;
+}
+    
